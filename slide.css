@@ -4,12 +4,16 @@
 }
 
 .slide {
-    margin-top: 50px;
     width: 1000px;
     margin: 0 auto;
+    margin-top: 50px;
     overflow: hidden;
     border-radius: 10px;
     position: relative;
+}
+
+.slide {
+
 }
 
 .slide:hover .dieuhuong {
